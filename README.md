@@ -35,7 +35,7 @@ Get full taxonomic lineage from NCBI with accession numbers
 
 ### Example
 
-Have a look into the **example** folder and try the following:
+Download the script available at `script/get_taxonomy_lineage.py`. Then, have a look into the **example** folder and try the following:
 
 	python3 get_taxonomy_lineage.py \
 			-i accession_numbers.txt \
@@ -43,8 +43,9 @@ Have a look into the **example** folder and try the following:
 			-e antonio.sousa@ciimar.up.pt
 			
 			
-Using as input the example given at `example/annotations.txt` it will generate the `output` text file **annotations.txt** that should have the same annotations as it appears in `example/annotations.txt` the **example** folder. 
+Using as `input` the example given at `example/annotations.txt` it will generate the `output` text file **annotations.txt** that should have the same annotations as it appears in `example/annotations.txt`. 
 
+<br>
 
 >**Enjoy it** :blush: 
 

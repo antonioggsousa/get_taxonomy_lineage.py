@@ -1,0 +1,35 @@
+AKT37645	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Sorangiineae; Polyangiaceae; Chondromyces
+WP_106833988	Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Brevibacillus
+WP_106779926	Bacteria; Firmicutes; Bacilli; Bacillales; Paenibacillaceae; Brevibacillus
+WP_062537154	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Rhodanobacteraceae; Mizugakiibacter
+WP_062537154	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Rhodanobacteraceae; Mizugakiibacter
+WP_102906059	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_068629748	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+OUL99327	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_106554900	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_068629748	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_008315081	Bacteria; Cyanobacteria; Synechococcales; Leptolyngbyaceae; Leptolyngbya
+WP_068629748	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_093164197	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_052720578	Bacteria; Actinobacteria; Micromonosporales; Micromonosporaceae; Actinoplanes
+OJW41083	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Rhodanobacteraceae; Rhodanobacter
+WP_068629748	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Comamonadaceae; Variovorax
+WP_077439544	Bacteria; Proteobacteria; Gammaproteobacteria; Xanthomonadales; Rhodanobacteraceae; Rhodanobacter
+CAF05647	Bacteria; Proteobacteria; Deltaproteobacteria; Myxococcales; Cystobacterineae; Archangiaceae; Archangium
+KIF28543	Bacteria; Cyanobacteria; Nostocales; Tolypothrichaceae; Hassallia
+PYO76667	Bacteria; Gemmatimonadetes
+RMN65544	Bacteria; Proteobacteria; Gammaproteobacteria; Pseudomonadales; Pseudomonadaceae; Pseudomonas
+RPK63967	Bacteria; Actinobacteria; Streptomycetales; Streptomycetaceae; Streptomyces
+CUV56692	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Burkholderiaceae; Ralstonia
+SBP86787	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Thiomonas
+CAZ89054	Bacteria; Proteobacteria; Betaproteobacteria; Burkholderiales; Thiomonas
+AIE12095	Bacteria; environmental samples
+AIE12095	Bacteria; environmental samples
+AIE12095	Bacteria; environmental samples
+AIE12095	Bacteria; environmental samples
+AIE12095	Bacteria; environmental samples
+AFP23854	Bacteria; environmental samples
+AFP23852	Bacteria; environmental samples
+AFP23852	Bacteria; environmental samples
+AFP23852	Bacteria; environmental samples
+AFP23852	Bacteria; environmental samples
